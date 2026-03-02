@@ -822,5 +822,5 @@ If you found this guide helpful, please ⭐ star this repository and share it wi
 
 ---
 
-*Last Updated: 2024*
-*Author: Jenkins Beginner Guide*
+*Last Updated: 2026*
+*Author: Saylee Shelar*
